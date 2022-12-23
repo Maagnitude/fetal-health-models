@@ -1,6 +1,6 @@
 # fetal_health_models
 
-In this notebook, I will deal with the development of classification models for a dataset, given in tabular data form.
+In this notebook, I'm developing classification models for a dataset, given in tabular data form.
 
 Specifically, I will develop classification models to assess the health of a fetus
 based on characteristics extracted from cardiotocography examinations of pregnant women.
